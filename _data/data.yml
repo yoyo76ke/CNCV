@@ -48,23 +48,23 @@ career-profile:
           - 获得中国人民大学的管理科学与工程硕士学位和信息管理与信息系统专业的学士学位
 
 education:
-    - degree: MSc in Management Science And Engineering
-      university: RENMIN University
+    - degree: 管理科学与工程硕士学位
+      university: 中国人民大学
       time: 2009 - 2012
 
-    - degree: BSc in Information Management And Information System
-      university: RENMIN University
+    - degree: 信息管理与信息系统学士学位
+      university: 中国人民大学
       time: 2003 - 2007
 
 experiences:
-    - role: Senior Software Development Engineer
+    - role: 高级软件工程师
       time: 2016.02 - Present
-      company: FreeWheel, Beijing, Golang
+      company: FreeWheel, 北京, Golang
       details: |
-          - Develop Market Insight server side feature using golang.
-          - Setup Market Insight project auto test framework from zero using golang and Docker(Presto+Hive+Hadoop). 
-          - Setup Market Insight Auto CI in AWS ENV from zero using jenkins and AWS.
-          - Maintain AdServing project auto test using python.
+          - 使用golang开发服务器端的功能。
+          - 从零开始，使用golang和Docker（Presto+Hive+Hadoop）设计并编写完成Market Insight项目自动化测试框架。 
+          - 从零开始，基于Jenkins master-slave 结构，在亚马逊云平台上（AWS）构建Market Insight项目的自动化持续集成测试（Auto CI）。
+          - 使用python维护AdServing项目的自动化测试框架。
           - Dockerized AdServing regression ENV(AdServer, Regression tool, MySQL, MockServer,Nginx and so on). 
           - Add AdServing auto test cases.
           
