@@ -104,7 +104,6 @@ experiences:
 publications:
     title: 公开发表
     intro: |
-    
     papers:
       - title: "Random rough subspace based neural network ensemble for insurance fraud detection"
         authors: Wei Xu, ShengNan Wang, Bo Yang
