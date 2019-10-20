@@ -65,53 +65,53 @@ experiences:
           - 从零开始，使用golang和Docker（Presto+Hive+Hadoop）设计并编写完成Market Insight项目自动化测试框架。 
           - 从零开始，基于Jenkins master-slave 结构，在亚马逊云平台上（AWS）构建Market Insight项目的自动化持续集成测试（Auto CI）。
           - 使用python维护AdServing项目的自动化测试框架。
-          - Dockerized AdServing regression ENV(AdServer, Regression tool, MySQL, MockServer,Nginx and so on). 
-          - Add AdServing auto test cases.
+          - 基于docker 构建AdServing regression 的容器化测试环境，其中包含AdServer, Regression tool, MySQL, MockServer,Nginx等
+          - 开发AdServing自动化测试用例  
           
-    - role: Quality Engineer 
+    - role: 测试开发工程师 
       time: 2013.09 - 2016.01
       company: RedHat, Beijing, Python &amp;  Bash Shell
       details: |
-          - Be Virt ESXi/Hyper-V project lead. In charge of ESXi/Hyper-V project. Follow RedHat project schedule. Control project risks. 
-          - Communicate with partners MS/VMware. 
-          - Research project new features. Trace important bugs.
-          - Setup Hyper-V auto test framework from zero using python. Add Hyper-V Auto test cases.
-          - Setup ESXi auto test framework from zero using python. Add 30% ESXi auto cases(kdump, network and so on).
-          - Attend RedHat QE Camp Global Forum with topic.
+          - 红帽第三方虚拟化项目Leader, 包含 ESXi/Hyper-V两个项目. 把控整体交付的计划，交付质量以及风险。 
+          - 定期跟微软以及Vmware 合作伙伴及时有效的沟通项目里面的交付计划，交付技术风险等。
+          - 参与项目新特性的调研，跟踪交付里面的重要，以及高优先级的缺陷。
+          - 从零构建Hyper-V 的自动化测试框架， 并且开发了初期的Hyper-V自动化测试用例.
+          - 从零构建ESXi 自动化测试框架. 开发了整体30%左右的ESXi测试用例，其中包含kdump, 网络相关部分.
+          - 代表中国区参加红帽全球的QE Camp， 并且是中国区第一个在会上发表主题演讲的工程师。 
         
-    - role: Associate Quality Engineer
+    - role: 助理测试开发工程师
       time: 2011.06 - 2013.08
       company: RedHat, Beijing, Python &amp;  Bash Shell
       details: |
-          - Do Hyper-V manual test. Create test plan. Execute acceptance and functional test cases. Trace bugs. 
-          - Be Feature owner of network, kdump, and so on. Reproduce and document bugs. Have a high bug contribution.
-          - Do Virt project Xen manual test using bash shell. Execute acceptance and functional test cases.
+          - Hyper-V 手动测试。制定Hyper-V 手动测试用例，执行冒烟测试以及功能测试， 沟通跟踪相应模块的问题，直到闭环。 
+          - ESX-i 手动测试。作为kdump, 网络相应功能的责任人，调研相应功能，负责相应模块功能串讲，以及制定相应测试用例。 复现以及报告相应功能的缺陷，在组内，有非常高的问题的贡献率。 
+          - Xen 手动测试。制定Xen 虚拟化的测试用例，执行相关的冒烟以及功能性测试。 复现以及报告相应功能的缺陷，在组内，有非常高的问题的贡献率。
         
-    - role: Internship 
+    - role: 实习生 
       time: 2010.08 - 2011.02
       company: EMC, Beijing, Java
       details: |
-          - Do functional Test for Aurora, including test case design and execution.Aurora is a cloud computing database.
-          - Develop the automatic importing tool by java, which extracts the data from EXCEL files and imports into Testlink system.
+          - Aurora 功能测试， 包含 测试用例设计以及执行。 Aurora 是EMC 开发的云数据库。
+          - 开发自动导入工具， 使用java从EXCEL 提取内容导入到Testlink系统.
 
-    - role: Project manager
+    - role: 项目经历
       time: 2007.07 - 2008.10
       company:  J&K chemical, Beijing
       details: |
-          - J&K chemical technical company IT system sector.Working as project manager, 
-          in charge of requirement analysis for the Electronic Business System
+          - J&K 化学科技公司IT 系统部门.工作职责是项目经理, 负责跟踪，分析来自外部的需求。 
+          
 
-publications:
-    title: Publications
-    papers:
+公开发表:
+    title: 公开发表
+    论文:
       - title: "Random rough subspace based neural network ensemble for insurance fraud detection"
-        authors: Wei Xu, ShengNan Wang, Bo Yang
-        conference: "The Fourth International Joint Conference on Computational Sciences and Optimization (IEEE CSO 2011)"
-        details: |
-          - Get the meeting best paper award.
+        作者: Wei Xu, ShengNan Wang, Bo Yang
+        会议: "The Fourth International Joint Conference on Computational Sciences and Optimization (IEEE CSO 2011)"
+        详细: |
+          - 获评最佳论文
 
 projects:
-    title: CERTIFICATIONS
+    title: 认证
     intro: >
     assignments:
       - title: CCNA (Cisco Certified Network Associate)
@@ -164,7 +164,6 @@ skills:
       - name: Presto &amp;  Hive &amp;  Hadoop
         level: 70%
         
-
-
+        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="https://yoyo76ke.github.io/online-cv/" target="_blank" rel="nofollow">Shengnan Wang</a>
