@@ -68,7 +68,7 @@ experiences:
           - 基于docker 构建AdServing regression 的容器化测试环境，其中包含AdServer, Regression tool, MySQL, MockServer,Nginx等
           - 开发AdServing自动化测试用例  
           
-    - role: 测试开发工程师 
+    - role: 高级测试开发工程师 
       time: 2013.09 - 2016.01
       company: RedHat, Beijing, Python &amp;  Bash Shell
       details: |
@@ -79,7 +79,7 @@ experiences:
           - 从零构建ESXi 自动化测试框架. 开发了整体30%左右的ESXi测试用例，其中包含kdump, 网络相关部分.
           - 代表中国区参加红帽全球的QE Camp， 并且是中国区第一个在会上发表主题演讲的工程师。 
         
-    - role: 助理测试开发工程师
+    - role: 测试开发工程师
       time: 2011.06 - 2013.08
       company: RedHat, Beijing, Python &amp;  Bash Shell
       details: |
