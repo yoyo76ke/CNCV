@@ -41,7 +41,7 @@ sidebar:
 career-profile:
     title: 简介
     summary: |       
-          - 有技术激情，根据工作需要不断学习和使用新的技术，考取技术认证。
+          - 对技术有热情，在工作中不断学习和使用新的技术，考取技术认证。
           - 沟通能力强.在工作中，可以跟领导，同事，以及合作伙伴保持良好沟通。
           - 有项目管理经验，愿意迎接挑战，可以承担压力。
           - 7+年的自动化测试开发经验。3+年服务器端开发经验。在项目中，熟悉使用RHEL Linux操作系统，golang/python/shell编程语言, 自动化测试工具, Jenkins, Xen/Hyper-V/Vmware ESXi虚拟化产品, AWS Cloud 以及 Docker.
@@ -102,7 +102,7 @@ experiences:
           
 
 publications:
-    title: 公开发表
+    title: 论文
     intro: |
     papers:
       - title: "Random rough subspace based neural network ensemble for insurance fraud detection"
