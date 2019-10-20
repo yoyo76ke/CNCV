@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Wang ShengNan
-    tagline: Senior Software Development Engineer
+    name: 王盛楠
+    tagline: 高级软件工程师
     avatar: snwang.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -25,27 +25,27 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Chinese
-        level: Native
+      - idiom: 中文
+        level: 母语
 
-      - idiom: English
-        level: Professional
+      - idiom: 英语
+        level: 流利
 
     interests:
-      - item: Climbing
+      - item: 健身
         link:
         
-      - item: Cooking
+      - item: 下厨
         link:
 
 career-profile:
-    title: HIGHLIGHTS
+    title: 简介
     summary: |       
-          - Great passion on learning Computer science. Get many IT certificates after graduated.
-          - Interest and ability to learn new skills as needed.
-          - Strong communication experiences with partners and good collaboration with colleagues.
-          - More than 7 years’ work experience with programming, auto test, CI, Virt, Linux, Cloud and Docker.
-          - BSc in Information Management And Information System of RENMIN University. MSc in Management Science And Engineering of RENMIN University
+          - 有技术激情，根据工作需要不断学习和使用新的技术，考取技术认证。
+          - 沟通能力强.在工作中，可以跟领导，同事，以及合作伙伴保持良好沟通。
+          - 有项目管理经验，愿意迎接挑战，可以承担压力。
+          - 7+年的自动化测试开发经验。3+年服务器端开发经验。在项目中，熟悉使用RHEL Linux操作系统，golang/python/shell编程语言, 自动化测试工具, Jenkins, Xen/Hyper-V/Vmware ESXi虚拟化产品, AWS Cloud 以及 Docker.
+          - 获得中国人民大学的管理科学与工程硕士学位和信息管理与信息系统专业的学士学位
 
 education:
     - degree: MSc in Management Science And Engineering
