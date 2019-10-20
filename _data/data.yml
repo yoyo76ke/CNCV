@@ -101,13 +101,15 @@ experiences:
           - J&K 化学科技公司IT 系统部门.工作职责是项目经理, 负责跟踪，分析来自外部的需求。 
           
 
-公开发表:
+publications::
     title: 公开发表
-    论文:
+    intro: |
+    
+    papers:
       - title: "Random rough subspace based neural network ensemble for insurance fraud detection"
-        作者: Wei Xu, ShengNan Wang, Bo Yang
-        会议: "The Fourth International Joint Conference on Computational Sciences and Optimization (IEEE CSO 2011)"
-        详细: |
+        authors: Wei Xu, ShengNan Wang, Bo Yang
+        conference: "The Fourth International Joint Conference on Computational Sciences and Optimization (IEEE CSO 2011)"
+        details: |
           - 获评最佳论文
 
 projects:
