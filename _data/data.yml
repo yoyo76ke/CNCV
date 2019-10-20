@@ -94,14 +94,14 @@ experiences:
           - Aurora 功能测试， 包含 测试用例设计以及执行。 Aurora 是EMC 开发的云数据库。
           - 开发自动导入工具， 使用java从EXCEL 提取内容导入到Testlink系统.
 
-    - role: 项目经历
+    - role: 项目经理
       time: 2007.07 - 2008.10
       company:  J&K chemical, Beijing
       details: |
           - J&K 化学科技公司IT 系统部门.工作职责是项目经理, 负责跟踪，分析来自外部的需求。 
           
 
-publications::
+publications:
     title: 公开发表
     intro: |
     
