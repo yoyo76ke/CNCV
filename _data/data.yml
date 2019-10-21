@@ -44,8 +44,8 @@ career-profile:
           - 对技术有热情，在工作中不断学习和使用新的技术，考取技术认证。
           - 沟通能力强.在工作中，可以跟领导，同事，以及合作伙伴保持良好沟通。
           - 有项目管理经验，愿意迎接挑战，可以承担压力。
-          - 7+年的自动化测试开发经验。3+年服务器端开发经验。在项目中，熟悉使用RHEL Linux操作系统，golang/python/shell编程语言, 自动化测试工具, Jenkins, Xen/Hyper-V/Vmware ESXi虚拟化产品, AWS Cloud 以及 Docker.
-          - 获得中国人民大学的管理科学与工程硕士学位和信息管理与信息系统专业的学士学位
+          - 7+年的自动化测试开发经验。3+年服务器端开发经验。在项目中，熟悉使用RHEL Linux操作系统，golang/python/shell编程语言, 自动化测试工具, Jenkins, Xen/Hyper-V/Vmware ESXi虚拟化产品, AWS Cloud 以及 Docker。
+          - 获得中国人民大学的管理科学与工程硕士学位和信息管理与信息系统专业的学士学位。
 
 education:
     - degree: 管理科学与工程硕士学位
@@ -65,8 +65,8 @@ experiences:
           - 从零开始，使用golang和Docker（Presto+Hive+Hadoop）设计并编写完成Market Insight项目自动化测试框架。 
           - 从零开始，基于Jenkins master-slave 结构，在亚马逊云平台上（AWS）构建Market Insight项目的自动化持续集成测试（Auto CI）。
           - 使用python维护AdServing项目的自动化测试框架。
-          - 基于docker 构建AdServing regression 的容器化测试环境，其中包含AdServer, Regression tool, MySQL, MockServer,Nginx等
-          - 开发AdServing自动化测试用例  
+          - 基于docker 构建AdServing regression 的容器化测试环境，其中包含AdServer, Regression tool, MySQL, MockServer,Nginx等。
+          - 开发AdServing自动化测试用例。
           
     - role: 高级测试开发工程师 
       time: 2013.09 - 2016.01
@@ -75,8 +75,8 @@ experiences:
           - 红帽第三方虚拟化项目Leader, 包含 ESXi/Hyper-V两个项目. 把控整体交付的计划，交付质量以及风险。 
           - 定期跟微软以及Vmware 合作伙伴及时有效的沟通项目里面的交付计划，交付技术风险等。
           - 参与项目新特性的调研，跟踪交付里面的重要，以及高优先级的缺陷。
-          - 从零构建Hyper-V 的自动化测试框架， 并且开发了初期的Hyper-V自动化测试用例.
-          - 从零构建ESXi 自动化测试框架. 开发了整体30%左右的ESXi测试用例，其中包含kdump, 网络相关部分.
+          - 从零构建Hyper-V 的自动化测试框架， 并且开发了初期的Hyper-V自动化测试用例。
+          - 从零构建ESXi 自动化测试框架。 开发了整体30%左右的ESXi测试用例，其中包含kdump, 网络相关部分。
           - 代表中国区参加红帽全球的QE Camp， 并且是中国区第一个在会上发表主题演讲的工程师。 
         
     - role: 测试开发工程师
@@ -92,27 +92,26 @@ experiences:
       company: EMC, Beijing, Java
       details: |
           - Aurora 功能测试， 包含 测试用例设计以及执行。 Aurora 是EMC 开发的云数据库。
-          - 开发自动导入工具， 使用java从EXCEL 提取内容导入到Testlink系统.
+          - 开发自动导入工具， 使用java从EXCEL 提取内容导入到Testlink系统。
 
     - role: 项目经理
       time: 2007.07 - 2008.10
       company:  J&K chemical, Beijing
       details: |
-          - J&K 化学科技公司IT 系统部门.工作职责是项目经理, 负责跟踪，分析来自外部的需求。 
+          - J&K 化学科技公司IT 系统部门。工作职责是项目经理, 负责跟踪，分析来自外部的需求。 
           
 
 publications:
-    title: 论文
+    title: PUBLICATIONS
     intro: |
     papers:
-      - title: "Random rough subspace based neural network ensemble for insurance fraud detection"
-        authors: Wei Xu, ShengNan Wang, Bo Yang
-        conference: "The Fourth International Joint Conference on Computational Sciences and Optimization (IEEE CSO 2011)"
-        details: >
-            - 获评最佳论文
+      - title: 基于粗糙集的保险欺诈检测神经网络算法
+        authors: 许伟, 王盛楠, 杨波
+        conference: "The Fourth International Joint Conference on Computational Sciences and Optimization (IEEE CSO 2011)"获评最佳论文
+
 
 projects:
-    title: 认证
+    title: CERTIFICATIONS
     intro: >
     assignments:
       - title: CCNA (Cisco Certified Network Associate)
